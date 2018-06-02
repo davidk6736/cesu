@@ -1,1 +1,2 @@
-hh
+CESU_Main is the main file running arduino setup() and loop()
+Each sensor has its own file with its own setup methods and getData methods
